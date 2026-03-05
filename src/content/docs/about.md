@@ -1,5 +1,7 @@
 ---
 title: About Swapnil
+description: "Swapnil Khalekar — AI Product Manager with 11 years across fintech, prop-tech, automotive and AI platforms. CSPO, SAFe 6 POPM, Product Space Top Performer and Demo Day Winner."
+keywords: "Swapnil Khalekar, AI product manager, product manager Pune, CSPO, SAFe POPM, product manager portfolio"
 ---
 
 I’m **Swapnil Khalekar**, an AI Product Manager based in **Pune, India**. I’ve spent the last **11 years** building products across **6 domains**, mostly in the unglamorous middle where real value gets created: messy processes, misaligned stakeholders, unclear requirements, and big outcomes hiding inside small details.

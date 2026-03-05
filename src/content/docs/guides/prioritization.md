@@ -1,5 +1,7 @@
 ---
 title: Prioritization (when everything is “top priority”)
+description: "How to prioritize your backlog without politics using WSJF. Includes a real scored example and the exact conversation to have with stakeholders who always want their feature first."
+keywords: "product prioritization, WSJF, backlog prioritization, prioritization frameworks, how to prioritize features, product backlog"
 ---
 
 ## 1) Opening — why prioritization is political by default

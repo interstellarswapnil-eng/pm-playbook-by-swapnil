@@ -1,5 +1,7 @@
 ---
 title: Roadmapping (without accidentally lying)
+description: "How to build a roadmap that creates alignment without making promises you cannot keep. Now/Next/Later explained with real examples from a platform migration."
+keywords: "product roadmap, roadmap planning, now next later roadmap, product strategy, roadmap stakeholders, outcome based roadmap"
 ---
 
 ## 1) Opening — alignment vs false promises

@@ -1,5 +1,7 @@
 ---
 title: Writing PRDs engineers will actually use
+description: "How to write PRDs that engineers actually read and use. Includes structure, before/after examples of requirements, and a definition of done for your next PRD."
+keywords: "how to write a PRD, product requirements document, PRD template, user stories, acceptance criteria, PRD structure"
 ---
 
 ## 1) Opening — why most PRDs fail

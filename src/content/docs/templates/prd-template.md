@@ -1,5 +1,7 @@
 ---
 title: PRD template
+description: "A clean PRD template you can copy into Notion or Google Docs. Includes all sections a strong PRD needs — problem, personas, goals, non-goals, requirements, edge cases."
+keywords: "PRD template, product requirements document template, free PRD template, product spec template"
 ---
 
 Copy/paste this into your doc tool of choice.

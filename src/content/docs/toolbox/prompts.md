@@ -1,5 +1,7 @@
 ---
 title: Prompts & heuristics
+description: "15+ PM heuristics and thinking prompts grouped by Discovery, Prioritization and Delivery. Opinionated, memorable, and actually useful in a meeting."
+keywords: "product management heuristics, PM thinking frameworks, product discovery questions, PM prompts, product intuition"
 ---
 
 These are the lines I come back to when things get noisy. Short. Memorable. Usable mid-meeting.

@@ -1,5 +1,7 @@
 ---
 title: Stakeholder management (as information architecture)
+description: "Stakeholder management is information architecture, not relationship management. How to map stakeholders, run weekly updates, and handle two senior stakeholders who want opposite things."
+keywords: "stakeholder management, PM stakeholder communication, product manager stakeholders, RACI, weekly product update, managing up"
 ---
 
 ## 1) Opening — it’s not relationship management

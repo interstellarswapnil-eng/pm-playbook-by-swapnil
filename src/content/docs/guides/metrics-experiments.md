@@ -1,5 +1,7 @@
 ---
 title: Metrics & experiments (that don’t lie)
+description: "How to build a metric tree, design real experiments, and avoid the trap of shipping features and calling it a test. For PMs who want data to mean something."
+keywords: "product metrics, north star metric, A/B testing for PMs, experiment design, product KPIs, leading indicators, guardrail metrics"
 ---
 
 ## 1) Opening — why most PMs measure the wrong things

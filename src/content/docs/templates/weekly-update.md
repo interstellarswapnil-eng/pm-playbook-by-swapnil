@@ -1,5 +1,7 @@
 ---
 title: Weekly stakeholder update template
+description: "A weekly stakeholder update template that keeps your update under 200 words and actually gets read. Shipped, in progress, next, risks — with a filled example."
+keywords: "weekly product update template, stakeholder update, PM status update, product update email template"
 ---
 
 This is not a status report. It’s a **trust-building tool**.

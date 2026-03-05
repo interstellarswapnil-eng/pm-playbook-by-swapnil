@@ -1,5 +1,7 @@
 ---
 title: Product decision record
+description: "A product decision record template with a filled example so you know what good looks like. Use it to document decisions that will matter six months from now."
+keywords: "product decision record, ADR template, product decision log, how to document product decisions"
 ---
 
 ## How to use this template

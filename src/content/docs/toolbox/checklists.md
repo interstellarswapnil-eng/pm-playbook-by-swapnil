@@ -1,5 +1,7 @@
 ---
 title: Checklists
+description: "Practical checklists for PMs — PRD review, launch readiness, backlog refinement, stakeholder alignment, and post-launch review. Each item is a full actionable sentence."
+keywords: "PM checklist, product launch checklist, PRD checklist, backlog refinement checklist, launch readiness"
 ---
 
 ## PRD review checklist

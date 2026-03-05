@@ -1,5 +1,7 @@
 ---
 title: Reading list
+description: "10 PM books with honest annotations — what you actually get from each one and who it is for. Curated by a PM with 11 years across 6 domains."
+keywords: "product management books, best PM books, product manager reading list, inspired marty cagan, continuous discovery habits"
 ---
 
 These are resources I’ve actually found useful — not because they’re famous, but because they change how you think and how you run the work.
