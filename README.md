@@ -12,3 +12,5 @@ npm run dev
 ## Deploy
 
 Designed for GitHub Pages.
+
+Last updated: March 2026
